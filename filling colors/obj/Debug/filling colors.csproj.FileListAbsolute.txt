@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\filling colors\filling colors\bin\Debug\filling colors.exe.config
+C:\Users\dell\source\repos\filling colors\filling colors\bin\Debug\filling colors.exe
+C:\Users\dell\source\repos\filling colors\filling colors\bin\Debug\filling colors.pdb
+C:\Users\dell\source\repos\filling colors\filling colors\obj\Debug\filling colors.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\filling colors\filling colors\obj\Debug\filling_colors.Form1.resources
+C:\Users\dell\source\repos\filling colors\filling colors\obj\Debug\filling_colors.Properties.Resources.resources
+C:\Users\dell\source\repos\filling colors\filling colors\obj\Debug\filling colors.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\filling colors\filling colors\obj\Debug\filling colors.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\filling colors\filling colors\obj\Debug\filling colors.exe
+C:\Users\dell\source\repos\filling colors\filling colors\obj\Debug\filling colors.pdb
